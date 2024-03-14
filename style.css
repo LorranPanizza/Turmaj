@@ -5,6 +5,8 @@
     color: azure;
 }
 .ima{
-    width: auto;
-    padding-right: 0%;
+
+    position: absolute;
+    top: 0;
+    right: 0
 }
