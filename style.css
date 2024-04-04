@@ -2,6 +2,7 @@
     background-color: rgb(87, 198, 194);
     display: flex;
     font-family: 'Times New Roman', Times, serif;
+    font-size: 36px;
     text-align: left;
     color: azure;
 }
@@ -10,6 +11,6 @@
     position: absolute;
     top: 0;
     right: 0;
-    width: 130px;
+    width: 120px;
     height: auto;
 }
