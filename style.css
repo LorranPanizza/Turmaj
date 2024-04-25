@@ -27,3 +27,7 @@ li{
     display: inline-block;
     margin: 0 16px;
 }
+
+footer{
+    background: linear-gradient(to right, #8e20a9, #ff6600, #0000ff);
+}
