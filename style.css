@@ -27,7 +27,7 @@ li{
     display: inline-block;
     margin: 0 16px;
 }
-.professor{
+.prfessor{
 
  display: grid;
  grid-template-columns: 20% 20% 20%;
