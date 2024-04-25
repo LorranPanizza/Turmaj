@@ -29,7 +29,8 @@ li{
 }
 .professor{
 
- display: grid 20% 20% 20%;
+ display: grid;
+ grid-template-columns: 20% 20% 20%;
 }
 
 .rodape{
