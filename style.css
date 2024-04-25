@@ -28,8 +28,15 @@ li{
     margin: 0 16px;
 }
 
-footer{
+.rodape{
     background: linear-gradient(to right, #8e20a9, #ff6600, #0000ff);
+    display: flex;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    justify-content: space-around;
+    align-items: center;
+    color: azure;
+    padding: 24px 0;
 }
 .imarodape{
     width: 20px;
