@@ -14,11 +14,7 @@
 }
 .ima{
 grid-template-columns: repeat(2, 1fr);
-    position: absolute;
-    top: W0;
-    right: 0;
-    width:120px;
-    height: auto;
+    
 }
 .cabecalho-lista{
     display: inline-block;
