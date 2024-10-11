@@ -13,7 +13,7 @@
     padding: 24px 0;
 }
 .ima{
-
+grid-column: 2, 2;
     position: absolute;
     top: W0;
     right: 0;
